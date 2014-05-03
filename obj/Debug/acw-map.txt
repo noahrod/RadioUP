@@ -1,0 +1,3 @@
+CustomRowView.HomeScreen;customrowview.HomeScreen
+CustomRowView.HomeScreenAdapter;customrowview.HomeScreenAdapter
+CustomRowView.Services.StreamingBackgroundService;customrowview.services.StreamingBackgroundService
